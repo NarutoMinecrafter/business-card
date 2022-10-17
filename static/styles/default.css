@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+body {
+  background-color: black
+}
+
+svg {
+  fill: #f3f4f6;
+  width: 32px;
+  height: 32px;
+  background: #dc2626;
+  border-radius: 50%;
+  padding: 4px;
+  border-color: #f3f4f6;
+  border-width: 2px;
+}
