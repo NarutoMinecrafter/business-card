@@ -9,7 +9,7 @@ export function Avatar() {
       <div class="h-48 w-48 bg-red-600 rounded-full mx-auto border-gray-100 border-2 px-1 py-1">
         <img
           class="h-full w-full rounded-full border-2 border-gray-100"
-          src={asset("/images/avatar.png")}
+          src={asset("/images/avatar.jpg")}
           alt="avatar"
         />
       </div>
